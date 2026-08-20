@@ -1,0 +1,16 @@
+VAULT OS 1.2 — GitHub Pages
+
+IMPORTANT : tous les fichiers de ce dossier doivent être placés directement à la racine du dépôt GitHub vault-os.
+Cette version ajoute un cache v1.2 et des paramètres ?v=12 afin d'éviter le problème de l'ancienne interface conservée par Safari/PWA.
+
+Nouvelles commandes :
+- mémorise : ...
+- recherche ...
+- ajoute une note : ...
+- ajoute une tâche : ...
+- ajoute un projet : ...
+- combien ai-je de projets ?
+- que sais-tu ?
+- quelle heure est-il ?
+
+La reconnaissance vocale dépend du navigateur. Les réponses vocales sont activées lorsqu'une commande a été reçue par reconnaissance vocale.
