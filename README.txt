@@ -1,16 +1,5 @@
-VAULT OS 1.2 — GitHub Pages
+VAULT OS V1.2.1 — Core Visual
 
-IMPORTANT : tous les fichiers de ce dossier doivent être placés directement à la racine du dépôt GitHub vault-os.
-Cette version ajoute un cache v1.2 et des paramètres ?v=12 afin d'éviter le problème de l'ancienne interface conservée par Safari/PWA.
+Mise à jour : le noyau central affiche désormais vault-core.png, fourni par l’utilisateur, tout en conservant les anneaux animés. Cache PWA versionné en V1.2.1.
 
-Nouvelles commandes :
-- mémorise : ...
-- recherche ...
-- ajoute une note : ...
-- ajoute une tâche : ...
-- ajoute un projet : ...
-- combien ai-je de projets ?
-- que sais-tu ?
-- quelle heure est-il ?
-
-La reconnaissance vocale dépend du navigateur. Les réponses vocales sont activées lorsqu'une commande a été reçue par reconnaissance vocale.
+Tous les fichiers doivent rester à la racine du dépôt GitHub Pages.
