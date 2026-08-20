@@ -1,1 +1,0 @@
-const VaultDB={get(k,f=[]){try{return JSON.parse(localStorage.getItem('vault_'+k))??f}catch{return f}},set(k,v){localStorage.setItem('vault_'+k,JSON.stringify(v))},add(k,v){const a=this.get(k);a.unshift({id:Date.now(),text:v,date:new Date().toLocaleString('fr-FR')});this.set(k,a);return a}};
